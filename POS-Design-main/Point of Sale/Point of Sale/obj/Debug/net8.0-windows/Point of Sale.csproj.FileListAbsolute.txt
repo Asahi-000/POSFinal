@@ -1,0 +1,157 @@
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.exe
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.deps.json
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.runtimeconfig.json
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.pdb
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddCustomers.resources
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddProducts.resources
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddSuppliers.resources
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Form1.resources
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Properties.Resources.resources
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Register.resources
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.SignIn.resources
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.GenerateResource.cache
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.AssemblyInfoInputs.cache
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.AssemblyInfo.cs
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of.D526C19A.Up2Date
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\refint\Point of Sale.dll
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.pdb
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.genruntimeconfig.cache
+C:\Users\STUDENT.CL2-PC31\Downloads\POS-Design-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\ref\Point of Sale.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\refint\Point of Sale.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.pdb
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.exe
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.deps.json
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.runtimeconfig.json
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.pdb
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddCustomers.resources
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddProducts.resources
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddSuppliers.resources
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Form1.resources
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Properties.Resources.resources
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Register.resources
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.SignIn.resources
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.GenerateResource.cache
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.AssemblyInfoInputs.cache
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.AssemblyInfo.cs
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of.D526C19A.Up2Date
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.genruntimeconfig.cache
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\ref\Point of Sale.dll
+C:\Users\kimbe\Downloads\UpdatedPOS2-main\UpdatedPOS2-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Users.resources
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\refint\Point of Sale.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.pdb
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.exe
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.deps.json
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.runtimeconfig.json
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.pdb
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddCustomers.resources
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddProducts.resources
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddSuppliers.resources
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Form1.resources
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Properties.Resources.resources
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Register.resources
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.SignIn.resources
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Users.resources
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.GenerateResource.cache
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.AssemblyInfoInputs.cache
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.AssemblyInfo.cs
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of.D526C19A.Up2Date
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.genruntimeconfig.cache
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\ref\Point of Sale.dll
+C:\Users\kimbe\Downloads\POS-latest-version-main\POS-latest-version-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Dashboard.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\refint\Point of Sale.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.pdb
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.exe
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.deps.json
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.runtimeconfig.json
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Point of Sale.pdb
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddCustomers.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddProducts.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.AddSuppliers.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Dashboard.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Form1.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Properties.Resources.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Register.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.SignIn.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point_of_Sale.Users.resources
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.GenerateResource.cache
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.AssemblyInfoInputs.cache
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.AssemblyInfo.cs
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of.D526C19A.Up2Date
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\Point of Sale.genruntimeconfig.cache
+C:\Users\kimbe\Downloads\POSdashboard-main\POSdashboard-main\POS-Design-main\Point of Sale\Point of Sale\obj\Debug\net8.0-windows\ref\Point of Sale.dll
